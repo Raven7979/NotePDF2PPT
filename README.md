@@ -13,6 +13,16 @@
 - Release 页面：`https://github.com/Raven7979/NotebookLM-PDF2PPT/releases`
 - 最终版（当前）：[`NotePDF2PPT_v1.1_b0.dmg`](https://github.com/Raven7979/NotebookLM-PDF2PPT/releases/download/v1.1-b0/NotePDF2PPT_v1.1_b0.dmg)
 
+## 样板案例
+
+下面是 3 组样板（输入 PDF 与输出 PPTX 对照），可直接点击下载查看：
+
+| 样板 | 输入 PDF | 输出 PPTX |
+| --- | --- | --- |
+| Sample 1 | [`sample-1-input.pdf`](samples/sample-1-input.pdf) | [`sample-1-output.pptx`](samples/sample-1-output.pptx) |
+| Sample 2 | [`sample-2-input.pdf`](samples/sample-2-input.pdf) | [`sample-2-output.pptx`](samples/sample-2-output.pptx) |
+| Sample 3 | [`sample-3-input.pdf`](samples/sample-3-input.pdf) | [`sample-3-output.pptx`](samples/sample-3-output.pptx) |
+
 ## 源码运行（可选）（回头我会准备一个可以填入API key的源码包给大家，现在这仅供参考）
 
 ### 启动前端（Mac App）
