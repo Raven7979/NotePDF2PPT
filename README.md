@@ -13,7 +13,7 @@
 
 - `1. 前端最终版 v1.0/Mac_App_Project/`：macOS 客户端工程（Swift/Xcode）。
 - `2. 后端最终版 v1.0/API_Backend/`：FastAPI 后端、转换核心与支付/账号能力。
-- `docs/`：部署、回滚、监控、密钥轮换等运维文档。
+- `docs/`：推广文案与对外说明材料。
 
 ## 快速开始
 
