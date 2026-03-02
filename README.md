@@ -8,7 +8,7 @@
 - 文本可编辑：输出的是可编辑文本框，不是纯截图拼贴。
 - AI 去字修复：先去掉底图中的原始文字，再回填可编辑文本，减少重影。
 
-## 下载 DMG （这个DMG下载即可使用，因为API需要费用所以会收取较少的费用）
+## 下载 DMG （这个下载即可使用，因为API需要费用所以会收取较少的费用）
 
 - Release 页面：`https://github.com/Raven7979/NotebookLM-PDF2PPT/releases`
 - 最终版（当前）：[`NotePDF2PPT_v1.1_b0.dmg`](https://github.com/Raven7979/NotebookLM-PDF2PPT/releases/download/v1.1-b0/NotePDF2PPT_v1.1_b0.dmg)
