@@ -33,7 +33,6 @@
 2. 选择 `PDFtoPPTX` Scheme
 3. Build & Run
 4. 若首次启动被 macOS 拦截，请到“系统设置 -> 隐私与安全性”中点击“仍要打开”或“允许”，再重新启动 App。
-![21444a3fee79237d23db979522fc6169](https://github.com/user-attachments/assets/b6f355f9-f3d2-404d-aedc-7d3e1b4622c6)
 
 ## 使用注意
 
@@ -41,7 +40,8 @@
 2. **费用说明**：转换过程调用 NanoBanana-pro 云端渲染，会产生算力成本（通常以积分/额度方式计费）。
 3. **AI 随机性**：AI 渲染存在一定“抽卡”波动；同一文件多次生成可能有细节差异。
 4. **结果微调**：生成的 `.pptx` 在复杂版式场景下，仍可能需要手工微调（如对齐、换行、字号），特殊字体无法识别。
-
+   
+![21444a3fee79237d23db979522fc6169](https://github.com/user-attachments/assets/b6f355f9-f3d2-404d-aedc-7d3e1b4622c6)
 ## 安全与配置
 
 - 本仓库不包含后端及密钥配置文件。
