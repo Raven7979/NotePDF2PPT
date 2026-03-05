@@ -14,7 +14,7 @@
 - 网站下载：https://ehotapp.xyz
 - 最终版（当前）：
   MAC版[`NotePDF2PPT_v1.1_b0.dmg`](https://github.com/Raven7979/NotebookLM-PDF2PPT/releases/download/v1.1-b0/NotePDF2PPT_v1.1_b0.dmg)
-  Win版 即将推出
+- Win版 即将推出
 
 ## 样板案例
 
