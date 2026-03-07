@@ -12,7 +12,7 @@
 
 - Release 页面：`https://github.com/Raven7979/NotebookLM-PDF2PPT/releases`
 - 网站下载：https://ehotapp.xyz
-- 最终版（当前）： MAC版，文件下载：[3. 打包输出 v1.0/NotePDF2PPT_v1.1.5.dmg](./3.%20打包输出%20v1.0/NotePDF2PPT_v1.1.5.dmg)
+- 最终版（当前）： MAC版，文件下载：[NotePDF2PPT_v1.1.5.dmg](https://raw.githubusercontent.com/Raven7979/NotebookLM-PDF2PPT/main/3.%20%E6%89%93%E5%8C%85%E8%BE%93%E5%87%BA%20v1.0/NotePDF2PPT_v1.1.5.dmg)
 - Win版 即将推出
 
 ## 样板案例
