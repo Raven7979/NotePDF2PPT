@@ -55,15 +55,18 @@
 
 **欢迎入群讨论**
 
-<p align="center">
-  <img src="微信群.jpg" alt="微信群" width="360" />
-  <img src="小红书群.jpg" alt="小红书群" width="300" />
-</p>
-
 <table align="center">
   <tr>
-    <td align="center">微信群</td>
-    <td align="center">小红书群</td>
+    <td align="center" width="340">
+      <img src="微信群.jpg" alt="微信群" width="320" />
+      <br />
+      <strong>微信群</strong>
+    </td>
+    <td align="center" width="340">
+      <img src="小红书群.jpg" alt="小红书群" width="320" />
+      <br />
+      <strong>小红书群</strong>
+    </td>
   </tr>
 </table>
 
@@ -127,15 +130,18 @@ I plan to prepare a source package with API key configuration later. For now, th
 
 **Join the community**
 
-<p align="center">
-  <img src="微信群.jpg" alt="WeChat Group" width="360" />
-  <img src="小红书群.jpg" alt="Xiaohongshu Group" width="300" />
-</p>
-
 <table align="center">
   <tr>
-    <td align="center">WeChat Group</td>
-    <td align="center">Xiaohongshu Group</td>
+    <td align="center" width="340">
+      <img src="微信群.jpg" alt="WeChat Group" width="320" />
+      <br />
+      <strong>WeChat Group</strong>
+    </td>
+    <td align="center" width="340">
+      <img src="小红书群.jpg" alt="Xiaohongshu Group" width="320" />
+      <br />
+      <strong>Xiaohongshu Group</strong>
+    </td>
   </tr>
 </table>
 
