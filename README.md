@@ -61,7 +61,7 @@
 </p>
 
 <p align="center">
-  微信群 ｜ 小红书群
+  左侧黑白码：微信群 ｜ 右侧红色码：小红书群
 </p>
 
 ### 安全与配置
@@ -130,7 +130,7 @@ I plan to prepare a source package with API key configuration later. For now, th
 </p>
 
 <p align="center">
-  WeChat Group ｜ Xiaohongshu Group
+  Left black-and-white code: WeChat Group ｜ Right red code: Xiaohongshu Group
 </p>
 
 ### Security and Configuration
