@@ -22,7 +22,7 @@
 - Release 页面：`https://github.com/Raven7979/NotebookLM-PDF2PPT/releases`
 - 网站下载：https://ehotapp.xyz
 - 最终版（当前）：MAC 版，文件下载：[NotePDF2PPT_v1.2.2_b122.dmg](https://raw.githubusercontent.com/Raven7979/NotebookLM-PDF2PPT/main/3.%20%E6%89%93%E5%8C%85%E8%BE%93%E5%87%BA%20v1.0/NotePDF2PPT_v1.2.2_b122.dmg)
-- Win 版即将推出
+- Win 版下载：[NotePDF2PPT_Setup_v1.0.1.exe](publish/NotePDF2PPT_Setup_v1.0.1.exe)
 
 ### 样板案例
 
@@ -53,7 +53,10 @@
 3. **AI 随机性**：AI 渲染存在一定“抽卡”波动，同一文件多次生成可能有细节差异。
 4. **结果微调**：生成的 `.pptx` 在复杂版式场景下，仍可能需要手工微调，如对齐、换行、字号，特殊字体也可能无法准确识别。
 
-![21444a3fee79237d23db979522fc6169](https://github.com/user-attachments/assets/b6f355f9-f3d2-404d-aedc-7d3e1b4622c6)
+<p align="center">
+  <img src="微信群.jpg" alt="微信群" width="360" />
+  <img src="小红书群.jpg" alt="小红书群" width="300" />
+</p>
 
 ### 安全与配置
 
@@ -82,7 +85,7 @@ A macOS client that converts PDFs into editable PPTX files.
 - Releases: [GitHub Releases](https://github.com/Raven7979/NotebookLM-PDF2PPT/releases)
 - Website: [ehotapp.xyz](https://ehotapp.xyz)
 - Current macOS build: [NotePDF2PPT_v1.2.2_b122.dmg](https://raw.githubusercontent.com/Raven7979/NotebookLM-PDF2PPT/main/3.%20%E6%89%93%E5%8C%85%E8%BE%93%E5%87%BA%20v1.0/NotePDF2PPT_v1.2.2_b122.dmg)
-- Windows version is coming soon
+- Windows download: [NotePDF2PPT_Setup_v1.0.1.exe](publish/NotePDF2PPT_Setup_v1.0.1.exe)
 
 ### Sample Cases
 
@@ -113,7 +116,10 @@ I plan to prepare a source package with API key configuration later. For now, th
 3. **AI variability**: AI rendering has some randomness, so repeated runs on the same file may produce small differences.
 4. **Manual adjustments**: for complex layouts, the generated `.pptx` may still need minor manual edits such as alignment, line breaks, font size, or font replacement.
 
-![21444a3fee79237d23db979522fc6169](https://github.com/user-attachments/assets/b6f355f9-f3d2-404d-aedc-7d3e1b4622c6)
+<p align="center">
+  <img src="微信群.jpg" alt="WeChat Group" width="360" />
+  <img src="小红书群.jpg" alt="Xiaohongshu Group" width="300" />
+</p>
 
 ### Security and Configuration
 
